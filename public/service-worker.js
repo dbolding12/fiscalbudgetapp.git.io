@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
     "/db.js",
     "/style.css",
     "/icons/icon-192x192.png",
-    "/icons/icon-96x96.png",
+    "/icons/icon-512x512.png",
   ];
   
   //Install service worker...
